@@ -1,10 +1,10 @@
-# 🛍️ Alura Store - Análisis de Rendimiento de Tiendas
+#  Análisis de Rendimiento de Tiendas
 
 Este proyecto presenta un análisis de datos de las cuatro tiendas de Alura Store con el objetivo de comprender su desempeño en términos de ventas, satisfacción del cliente, costos de envío y productos vendidos. A través de gráficos, métricas y recomendaciones, se determina qué tienda presenta el rendimiento más bajo y podría considerarse para cierre.
 
 ---
 
-## 🎯 Propósito del Análisis
+## Propósito del Análisis
 
 El análisis busca:
 
@@ -15,7 +15,7 @@ El análisis busca:
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 alura-store/
@@ -37,7 +37,7 @@ alura-store/
 
 ---
 
-## 📊 Ejemplos de Gráficos e Insights
+##  Ejemplos de Gráficos e Insights
 
 ### Ventas por Categoría (Tienda 1)
 Muestra qué tipo de productos tienen mayor rotación, lo cual permite orientar estrategias de stock.
@@ -51,11 +51,11 @@ Comparativa del costo logístico entre tiendas. Tienda 4 es la que presenta mayo
 ### Producto Más y Menos Vendido
 Visualización de los productos con mejor y peor desempeño en ventas por tienda.
 
-📌 **Recomendación Final:** Cerrar la Tienda 4, ya que presenta bajos ingresos, calificaciones negativas y altos costos logísticos.
+ **Recomendación Final:** Cerrar la Tienda 4, ya que presenta bajos ingresos, calificaciones negativas y altos costos logísticos.
 
 ---
 
-## ▶️ Instrucciones para Ejecutar el Notebook
+##  Instrucciones para Ejecutar el Notebook
 
 ### Requisitos:
 - Python 3.8 o superior
@@ -73,12 +73,3 @@ jupyter notebook notebooks/alura_store_analysis.ipynb
 
 ---
 
-## 👩‍💻 Autor
-
-Proyecto realizado como parte del Challenge de Data Science de [Alura Latam](https://www.aluracursos.com/).
-
----
-
-## 📌 Licencia
-
-Este proyecto es de libre uso con fines educativos. Se agradece la atribución si se reutiliza en otro contexto.
